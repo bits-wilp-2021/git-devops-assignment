@@ -1,2 +1,2 @@
-# git-wilp-assignment
+# git-devops-assignment
 DevOps Assignment Semester 1

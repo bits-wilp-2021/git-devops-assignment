@@ -1,1 +1,9 @@
 Making an update
+<<<<<<< HEAD
+Update made by collaborator
+=======
+update made by manager
+>>>>>>> 5c42c9c4308540c1765aa0627e6640ab8b9d977d
+
+
+need to do git push force
